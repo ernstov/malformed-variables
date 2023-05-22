@@ -8,7 +8,7 @@ malformed-variables:
     password:
       env: ADMIN_PASSWORD
       type: string
-      value: not-set
+      value: 1234
     user:
       env: ADMIN_USERNAME
       type: string
